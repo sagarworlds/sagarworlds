@@ -6,8 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github">
+<a href="https://github.com/sagarworlds?tab=followers">
+<img src="https://img.shields.io/github/followers/sagarworlds?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
