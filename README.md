@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/github/followers/sagarworlds?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sagarworlds">
 <img src="https://img.shields.io/github/stars/sagarworlds?affiliations=OWNER&style=for-the-badge">
 </a>
 
@@ -118,9 +118,9 @@ Senior Full Stack .NET Developer | AI Enthusiast | Angular Expert | Azure Develo
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sagarworlds&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarworlds&theme=tokyonight"/>
 
 </p>
 
