@@ -126,7 +126,7 @@ Senior Full Stack .NET Developer | AI Enthusiast | Angular Expert | Azure Develo
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarworlds&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -136,7 +136,7 @@ Senior Full Stack .NET Developer | AI Enthusiast | Angular Expert | Azure Develo
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sagarworlds&theme=onedark&row=1&column=7"/>
 
 </p>
 
