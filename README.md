@@ -26,41 +26,36 @@ Senior Full Stack .NET Developer | AI Enthusiast | Angular Expert | Azure Develo
 
 💼 Senior Software Engineer with **15+ years** of experience building enterprise applications.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<!-- Responsive two-column layout using inline flexbox styles so it works in GitHub README -->
+<div style="display:flex;flex-wrap:wrap;gap:1rem;align-items:flex-start;">
+  <div style="flex:1 1 300px;max-width:48%;min-width:220px;box-sizing:border-box;">
 
 ### 🔹 Specializing in
 
-<ul>
-<li>ASP.NET Core</li>
-<li>C#</li>
-<li>Angular</li>
-<li>SQL Server</li>
-<li>Azure</li>
-<li>REST APIs</li>
-<li>AI Integration</li>
-<li>SaaS Applications</li>
-</ul>
+- ASP.NET Core
+- C#
+- Angular
+- SQL Server
+- Azure
+- REST APIs
+- AI Integration
+- SaaS Applications
 
-    </td>
-    <td valign="top" width="50%">
+  </div>
+  <div style="flex:1 1 300px;max-width:48%;min-width:220px;box-sizing:border-box;">
 
 ### 🔹 Passionate about
 
-<ul>
-<li>AI Automation</li>
-<li>LLM Applications</li>
-<li>RAG Systems</li>
-<li>Azure OpenAI</li>
-<li>Multi-tenant SaaS</li>
-<li>Clean Architecture</li>
-<li>Performance Optimization</li>
-</ul>
+- AI Automation
+- LLM Applications
+- RAG Systems
+- Azure OpenAI
+- Multi-tenant SaaS
+- Clean Architecture
+- Performance Optimization
 
-    </td>
-  </tr>
-</table>
+  </div>
+</div>
 
 ---
 
