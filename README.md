@@ -5,11 +5,9 @@
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=sagarworlds&style=for-the-badge&color=blue)
-
 <a href="https://github.com/sagarworlds?tab=followers">
 <img src="https://img.shields.io/github/followers/sagarworlds?style=for-the-badge&logo=github">
 </a>
-
 <a href="https://github.com/sagarworlds">
 <img src="https://img.shields.io/github/stars/sagarworlds?affiliations=OWNER&style=for-the-badge">
 </a>
