@@ -26,9 +26,10 @@ Senior Full Stack .NET Developer | AI Enthusiast | Angular Expert | Azure Develo
 
 💼 Senior Software Engineer with **15+ years** of experience building enterprise applications.
 
-<!-- Responsive two-column layout using inline flexbox styles so it works in GitHub README -->
-<div style="display:flex;flex-wrap:wrap;gap:1rem;align-items:flex-start;">
-  <div style="flex:1 1 300px;max-width:48%;min-width:220px;box-sizing:border-box;">
+<!-- Two-column layout via HTML table: GitHub strips <style> tags and style="" attributes from READMEs, so flexbox/grid CSS never renders. A table is the one layout primitive GitHub's sanitizer leaves intact, and it degrades gracefully (columns shrink + text wraps) instead of breaking on small screens. -->
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
 ### 🔹 Specializing in
 
@@ -41,8 +42,8 @@ Senior Full Stack .NET Developer | AI Enthusiast | Angular Expert | Azure Develo
 - AI Integration
 - SaaS Applications
 
-  </div>
-  <div style="flex:1 1 300px;max-width:48%;min-width:220px;box-sizing:border-box;">
+</td>
+<td valign="top" width="50%">
 
 ### 🔹 Passionate about
 
@@ -54,8 +55,9 @@ Senior Full Stack .NET Developer | AI Enthusiast | Angular Expert | Azure Develo
 - Clean Architecture
 - Performance Optimization
 
-  </div>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
