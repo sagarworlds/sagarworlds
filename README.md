@@ -26,26 +26,41 @@ Senior Full Stack .NET Developer | AI Enthusiast | Angular Expert | Azure Develo
 
 💼 Senior Software Engineer with **15+ years** of experience building enterprise applications.
 
-🔹 Specializing in
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- ASP.NET Core
-- C#
-- Angular
-- SQL Server
-- Azure
-- REST APIs
-- AI Integration
-- SaaS Applications
+### 🔹 Specializing in
 
-🔹 Passionate about
+<ul>
+<li>ASP.NET Core</li>
+<li>C#</li>
+<li>Angular</li>
+<li>SQL Server</li>
+<li>Azure</li>
+<li>REST APIs</li>
+<li>AI Integration</li>
+<li>SaaS Applications</li>
+</ul>
 
-- AI Automation
-- LLM Applications
-- RAG Systems
-- Azure OpenAI
-- Multi-tenant SaaS
-- Clean Architecture
-- Performance Optimization
+    </td>
+    <td valign="top" width="50%">
+
+### 🔹 Passionate about
+
+<ul>
+<li>AI Automation</li>
+<li>LLM Applications</li>
+<li>RAG Systems</li>
+<li>Azure OpenAI</li>
+<li>Multi-tenant SaaS</li>
+<li>Clean Architecture</li>
+<li>Performance Optimization</li>
+</ul>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
